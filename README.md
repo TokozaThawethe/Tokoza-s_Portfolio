@@ -1,5 +1,5 @@
 <h1>Hi, I'm Tokoza (TK)! 
-<br/><a href="https://github.com/joshmadakor1">Data Analyst</a>
+<br/><a href="https://tokozathawethe.github.io/Tokoza-s_Portfolio/">Data Analyst</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
